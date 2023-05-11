@@ -1,0 +1,25 @@
+{
+    "name": "@facile-it/tsconfig",
+    "version": "0.0.1",
+    "description": "Shared TypeScript config for facile-it projects",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/facile-it/tsconfig-facile.git"
+    },
+    "main": "tsconfig.json",
+    "engines": {
+        "node": ">=16"
+    },
+    "files": [
+        "tsconfig.json",
+        "tsconfig-next.json"
+    ],
+    "keywords": [
+        "tsconfig",
+        "typescript",
+        "ts",
+        "config",
+        "configuration"
+    ]
+}
