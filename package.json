@@ -1,6 +1,6 @@
 {
     "name": "@facile-it/tsconfig",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Shared TypeScript config for facile-it projects",
     "license": "MIT",
     "repository": {
