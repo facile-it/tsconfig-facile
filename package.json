@@ -14,6 +14,10 @@
     "engines": {
         "node": ">=16"
     },
+    "scripts": {
+        "version": "changeset version",
+        "release": "changeset publish"
+    },
     "files": [
         "tsconfig.json",
         "tsconfig-react.json",
