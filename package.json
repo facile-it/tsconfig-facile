@@ -16,7 +16,9 @@
     },
     "files": [
         "tsconfig.json",
-        "tsconfig-next.json"
+        "tsconfig-react.json",
+        "tsconfig-next.json",
+        "tsconfig-nest.json"
     ],
     "keywords": [
         "tsconfig",

@@ -16,10 +16,26 @@ Add to your `tsconfig.json`:
 "extends": "@facile-it/tsconfig/tsconfig.json"
 ```
 
+## tsconfig React.js
+
+Add to your `tsconfig.json`:
+
+```json
+"extends": "@facile-it/tsconfig/tsconfig-react.json"
+```
+
 ## tsconfig Next.js
 
 Add to your `tsconfig.json`:
 
 ```json
 "extends": "@facile-it/tsconfig/tsconfig-next.json"
+```
+
+## tsconfig Nest.js
+
+Add to your `tsconfig.json`:
+
+```json
+"extends": "@facile-it/tsconfig/tsconfig-nest.json"
 ```
