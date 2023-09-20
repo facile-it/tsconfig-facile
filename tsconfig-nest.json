@@ -1,0 +1,9 @@
+{
+  "extends": "@facile-it/tsconfig/tsconfig.json",
+  "compilerOptions": {
+    "module": "NodeNext", 
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": true
+  }
+}
