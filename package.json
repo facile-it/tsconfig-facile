@@ -22,7 +22,8 @@
     "tsconfig.json",
     "tsconfig-react.json",
     "tsconfig-next.json",
-    "tsconfig-nest.json"
+    "tsconfig-nest.json",
+    "tsconfig-expo.json"
   ],
   "keywords": [
     "tsconfig",
