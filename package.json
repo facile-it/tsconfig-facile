@@ -15,6 +15,7 @@
     "node": ">=16"
   },
   "scripts": {
+    "changeset": "changeset",
     "version": "changeset version",
     "release": "changeset publish"
   },
