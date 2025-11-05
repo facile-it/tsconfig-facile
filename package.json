@@ -17,7 +17,9 @@
   "scripts": {
     "changeset": "changeset",
     "version": "changeset version",
-    "release": "changeset publish"
+    "release": "changeset publish",
+    "version:beta-enter": "changeset pre enter beta && changeset version",
+    "version:beta-exit": "changeset pre exit && changeset version"
   },
   "files": [
     "tsconfig.json",
