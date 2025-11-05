@@ -1,5 +1,11 @@
 # @facile-it/tsconfig
 
+## 0.3.0-beta.0
+
+### Minor Changes
+
+- 854558d: Added config for expo
+
 ## 0.2.0
 
 ### Minor Changes
