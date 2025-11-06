@@ -1,6 +1,6 @@
 {
   "name": "@facile-it/tsconfig",
-  "version": "0.2.0",
+  "version": "0.3.0-beta.0",
   "description": "Shared TypeScript config for facile-it projects",
   "license": "MIT",
   "repository": {
@@ -15,14 +15,18 @@
     "node": ">=16"
   },
   "scripts": {
+    "changeset": "changeset",
     "version": "changeset version",
-    "release": "changeset publish"
+    "release": "changeset publish",
+    "version:beta-enter": "changeset pre enter beta && changeset version",
+    "version:beta-exit": "changeset pre exit && changeset version"
   },
   "files": [
     "tsconfig.json",
     "tsconfig-react.json",
     "tsconfig-next.json",
-    "tsconfig-nest.json"
+    "tsconfig-nest.json",
+    "tsconfig-expo.json"
   ],
   "keywords": [
     "tsconfig",

@@ -1,0 +1,10 @@
+{
+  "mode": "pre",
+  "tag": "beta",
+  "initialVersions": {
+    "@facile-it/tsconfig": "0.2.0"
+  },
+  "changesets": [
+    "real-dots-train"
+  ]
+}
